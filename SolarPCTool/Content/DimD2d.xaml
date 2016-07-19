@@ -1,0 +1,54 @@
+﻿<UserControl x:Class="SolarPCTool.Content.LightMgmtDim"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <ScrollViewer>
+            <StackPanel Orientation="Vertical">
+                <TextBlock Text="" Style="{StaticResource Heading2}" Margin="0,0,0,8" />
+                
+                <StackPanel Orientation="Vertical">
+                    <DataGrid Name="DG1" ItemsSource="{Binding}" AutoGenerateColumns="False" GridLinesVisibility="All" CanUserAddRows="False" CanUserDeleteRows="False" CanUserSortColumns="False" CanUserReorderColumns="False" HorizontalAlignment="Left" EnableRowVirtualization="False">
+                        <DataGrid.Resources>
+                            <Style x:Key="rightAlignedColumn" TargetType="{x:Type TextBlock}">
+                                <Setter Property="TextAlignment" Value="Right" />
+                            </Style>
+                        </DataGrid.Resources>
+                        <DataGrid.Columns>
+                            <mui:DataGridTextColumn Header="" Binding="{Binding Period}"  ElementStyle="{StaticResource rightAlignedColumn}" />
+                            <mui:DataGridTextColumn Header="Duration(Min)" Binding="{Binding Duration}" ElementStyle="{StaticResource rightAlignedColumn}"/>
+                            <mui:DataGridTextColumn Header="Dimming Level(%)" Binding="{Binding DimLevel}" ElementStyle="{StaticResource rightAlignedColumn}"/>
+                            <mui:DataGridTextColumn Header="Fade Time(Sec)" Binding="{Binding FadeTime}" ElementStyle="{StaticResource rightAlignedColumn}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </StackPanel>
+
+                <StackPanel Orientation="Vertical">
+                    <TextBlock Text="" Style="{StaticResource Heading2}" Margin="0,0,0,8" />
+                </StackPanel>
+
+                <Grid>
+                    <Canvas>
+                        <Line X1="0" Y1="10" X2="500" Y2="10" Stroke="Gray" StrokeThickness="0.1"/>
+                        <Line X1="0" Y1="20" X2="500" Y2="20" Stroke="Gray" StrokeThickness="0.1"/>
+                        <Line X1="0" Y1="30" X2="500" Y2="30" Stroke="Gray" StrokeThickness="1"/>
+                        <Line X1="0" Y1="40" X2="500" Y2="40" Stroke="Gray" StrokeThickness="1"/>
+                        <Line X1="0" Y1="50" X2="500" Y2="50" Stroke="Gray" StrokeThickness="1"/>
+                        <Line X1="0" Y1="60" X2="500" Y2="60" Stroke="Gray" StrokeThickness="1"/>
+                        <Line X1="0" Y1="70" X2="500" Y2="70" Stroke="Gray" StrokeThickness="1"/>
+                        <Line X1="0" Y1="80" X2="500" Y2="80" Stroke="Gray" StrokeThickness="1"/>
+                        <Line X1="0" Y1="90" X2="500" Y2="90" Stroke="Gray" StrokeThickness="1"/>
+                        <Line X1="0" Y1="100" X2="500" Y2="100" Stroke="Gray" StrokeThickness="1"/>
+                        <Line X1="0" Y1="110" X2="500" Y2="110" Stroke="Gray" StrokeThickness="1"/>
+
+                        <Line X1="0" Y1="40" X2="30" Y2="40" Stroke="Orange" StrokeThickness="4" />
+                    </Canvas>
+                </Grid>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</UserControl>

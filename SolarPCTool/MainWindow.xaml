@@ -1,0 +1,26 @@
+﻿<mui:ModernWindow x:Class="SolarPCTool.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+        Title="iMPPT" IsTitleVisible="True"
+        Height="600" Width="800"
+        ContentSource="/Pages/Factory.xaml">
+    <mui:ModernWindow.TitleLinks>
+        <mui:Link DisplayName="Settings" Source="/Pages/Settings.xaml" />
+    </mui:ModernWindow.TitleLinks>
+
+    <mui:ModernWindow.MenuLinkGroups>
+        <mui:LinkGroup DisplayName="Commissioning">
+            <mui:LinkGroup.Links>
+                <mui:Link DisplayName="Factory" Source="/Pages/Factory.xaml" />
+                <mui:Link DisplayName="LightMgmt" Source="/Pages/LightMgmt.xaml" />
+                <mui:Link DisplayName="DimProfile" Source="/Pages/DimProfile.xaml" />
+                <mui:Link DisplayName="PowerMgmt" Source="/Pages/PowerMgmt.xaml" />
+                <mui:Link DisplayName="LogMgmt" Source="/Pages/LogMgmt.xaml"  />
+            </mui:LinkGroup.Links>
+        </mui:LinkGroup>
+        <mui:LinkGroup DisplayName="Misc">
+            
+        </mui:LinkGroup>
+    </mui:ModernWindow.MenuLinkGroups>
+</mui:ModernWindow>

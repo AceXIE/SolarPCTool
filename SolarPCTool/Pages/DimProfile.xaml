@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="SolarPCTool.Pages.DimProfile"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:content="clr-namespace:SolarPCTool.Content"
+             xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="215"/>
+            <ColumnDefinition Width="1"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <content:RealTimeMeasurement Margin="{StaticResource SplitLeft}"/>
+        <GridSplitter Grid.Column="1" IsEnabled="False" />
+        <Grid Style="{StaticResource ContentRoot}" Grid.Column="2" Margin="{StaticResource SplitRight}">
+            <mui:ModernTab SelectedSource="/Content/DimD2d.xaml" Layout="Tab">
+                <mui:ModernTab.Links>
+                    <mui:Link DisplayName="D2D" Source="/Content/DimD2d.xaml" />
+                    <mui:Link DisplayName="DynaDim" Source="/Content/DynaDim.xaml" />
+                    <mui:Link DisplayName="RTC" Source="/Content/DimRtc.xaml" />
+                </mui:ModernTab.Links>
+            </mui:ModernTab>
+        </Grid>
+    </Grid>
+</UserControl>

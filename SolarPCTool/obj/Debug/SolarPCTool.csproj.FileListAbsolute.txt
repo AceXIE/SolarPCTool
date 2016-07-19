@@ -1,0 +1,84 @@
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\bin\Debug\SolarPCTool.exe
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\bin\Debug\SolarPCTool.pdb
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\bin\Debug\FirstFloor.ModernUI.dll
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\bin\Debug\Microsoft.Windows.Shell.dll
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\bin\Debug\FirstFloor.ModernUI.xml
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\SolarPCTool.csprojResolveAssemblyReference.cache
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\MainWindow.baml
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\App.baml
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\MainWindow.g.cs
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\App.g.cs
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\SolarPCTool_MarkupCompile.cache
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\SolarPCTool.g.resources
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\SolarPCTool.Properties.Resources.resources
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\SolarPCTool.csproj.GenerateResource.Cache
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\SolarPCTool.exe
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\SolarPCTool.pdb
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\Pages\Factory.g.cs
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\Pages\Factory.baml
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\Content\RealTimeMeasurement.baml
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\Content\RealTimeMeasurement.g.cs
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\SolarPCTool_MarkupCompile.lref
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\Pages\LightMgmt.baml
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\Pages\LogMgmt.baml
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\Pages\PowerMgmt.baml
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\Pages\LightMgmt.g.cs
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\Pages\LogMgmt.g.cs
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\Pages\PowerMgmt.g.cs
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\Pages\Settings.baml
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\Pages\Settings.g.cs
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\Content\LightMgmt.baml
+c:\users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\Content\LightMgmt.g.cs
+C:\Users\310045845\Documents\Visual Studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\Pages\DimProfile.g.cs
+C:\Users\310045845\Documents\Visual Studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\Pages\DimProfile.baml
+C:\Users\310045845\Documents\Visual Studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\Content\DimD2d.baml
+C:\Users\310045845\Documents\Visual Studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\Content\DimD2d.g.cs
+C:\Users\310045845\Documents\Visual Studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\Content\DimRtc.baml
+C:\Users\310045845\Documents\Visual Studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\Content\DynaDim.baml
+C:\Users\310045845\Documents\Visual Studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\Content\DimRtc.g.cs
+C:\Users\310045845\Documents\Visual Studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\Content\DynaDim.g.cs
+C:\Users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\Content\PowerMgmt.baml
+C:\Users\310045845\documents\visual studio 2012\Projects\SolarPCTool\SolarPCTool\obj\Debug\Content\PowerMgmt.g.cs
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\SolarPCTool.exe
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\SolarPCTool.pdb
+C:\work_solar\SolarPCTool\SolarPCTool\bin\Debug\SolarPCTool.exe
+C:\work_solar\SolarPCTool\SolarPCTool\bin\Debug\SolarPCTool.pdb
+C:\work_solar\SolarPCTool\SolarPCTool\bin\Debug\FirstFloor.ModernUI.dll
+C:\work_solar\SolarPCTool\SolarPCTool\bin\Debug\Microsoft.Windows.Shell.dll
+C:\work_solar\SolarPCTool\SolarPCTool\bin\Debug\FirstFloor.ModernUI.xml
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\SolarPCTool.csprojResolveAssemblyReference.cache
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\Content\DimRtc.baml
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\Content\DynaDim.baml
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\Content\LightMgmt.baml
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\Content\DimD2d.baml
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\Content\PowerMgmt.baml
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\Content\RealTimeMeasurement.baml
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\MainWindow.baml
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\Pages\Settings.baml
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\App.baml
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\Content\DimRtc.g.cs
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\Content\DynaDim.g.cs
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\Content\LightMgmt.g.cs
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\Content\DimD2d.g.cs
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\Content\PowerMgmt.g.cs
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\Content\RealTimeMeasurement.g.cs
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\MainWindow.g.cs
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\Pages\DimProfile.g.cs
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\Pages\Factory.g.cs
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\Pages\LightMgmt.g.cs
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\Pages\LogMgmt.g.cs
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\Pages\PowerMgmt.g.cs
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\Pages\Settings.g.cs
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\App.g.cs
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\SolarPCTool_MarkupCompile.cache
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\SolarPCTool_MarkupCompile.lref
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\Pages\DimProfile.baml
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\Pages\Factory.baml
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\Pages\LightMgmt.baml
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\Pages\LogMgmt.baml
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\Pages\PowerMgmt.baml
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\SolarPCTool.g.resources
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\SolarPCTool.Properties.Resources.resources
+C:\work_solar\SolarPCTool\SolarPCTool\obj\Debug\SolarPCTool.csproj.GenerateResource.Cache
