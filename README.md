@@ -4,4 +4,4 @@
 
 参考我的主页介绍 
 
-http://xiekai.me
+http://xiekai.me/blog/?page_id=73
